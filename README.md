@@ -1,4 +1,4 @@
-# 🧙🏼‍🌎 teste-front-filmes
+# 🧙🏼‍🌎 teste-front-api
 
 Projeto Web referente a um teste técnico para junior front end. Que é necessário consumir a API de filmes e mostar uma tela com as informações e vídeos do youtube. Como também para ter paginação de página.
 
